@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+ <head>
+   <title>ALBINO</title>
+   <meta charset="utf-8">
+ </head>
+  <body>
+    <h1><a href="index html">WEB</a></h1>
+    <ol>
+   <li><a href="1.html"> HTML</a></li>
+   <li><a href="2.html"> CSS</a></li>
+   <li><a href="3.html"> JAVASCRIPT</a></li>
+  </ol>
+  <h2>알비노</h2>
+    <p><a href="https://sites.google.com/view/albino100/%ED%99%88" target=" blank"
+      title=알비노>백색증(白色症; 영어:
+       Albinism)</a>은 동물이나 사람의
+      <strong>눈, 피부, 머리카락 등에서 <u>멜라닌 색소</u></strong>가 합성되지 않는 질병이다.
+       이것은 멜라닌을 생성하는 티로시나아제가 돌연변이에 의해 형성되지 않거나 부분적으로 형성되어
+        발생하는 선천성 유전 질환이다. 이 증세를 겪는 생명체를 알비노(Albino)라고 통칭하며 대의어는
+         흑색증이다.</p>
+
+   <img src="바탕.png"width="500">
+    <p>주얼리. 180년 이상의 전통을 이어온 전문가들의 장인정신이 담긴 아름다운 디자인의 네크리스,
+      펜던트, 브레이슬릿, 링 등 모든 티파니 주얼리를 만나보세요.
+‎       새로운 주얼리 · ‎가장 인기있는 주얼리 · ‎개성있는 실버 주얼리 · ‎네크리스 및 펜던트</p>
+
+  </body>
+</html>
